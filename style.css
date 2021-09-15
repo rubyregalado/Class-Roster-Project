@@ -30,6 +30,11 @@ main h2 {
     background-color: black;
     padding: 3px;
 }
+.dio-style {
+    color: limegreen;
+    background-color: blue;
+    padding: 3px;
+}
 
 .code-ninja-style {
     color: blue;
