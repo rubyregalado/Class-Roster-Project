@@ -36,3 +36,9 @@ main h2 {
     background-color: lightblue;
     padding: 3px;
 }
+
+.anthony-style {
+    color: rgb(255, 2, 2);;
+    background-color: rgb(76, 76, 76);
+    padding: 3px;
+}
