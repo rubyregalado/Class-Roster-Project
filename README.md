@@ -1,2 +1,2 @@
 # Class Roster Project
-Wyatt Clay Hart
+Contributed to by Wyatt Clay Hart
