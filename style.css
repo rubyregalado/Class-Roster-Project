@@ -49,6 +49,19 @@ padding: 3px;
     padding: 3px;
 }
 
+.Elijah-Schrock-style {
+    color: rgb(105, 219, 82);
+    background-color: black;
+    animation-name: Eli-animation;
+    animation-duration: 4s;
+    padding: 3px;
+}
+
+@keyframes Eli-animation {
+    from {background-color:black;}
+    to {background-color: red;}
+
+
 .wyatt-clay-hart{
     color:black;
     background-color:darkgreen;
