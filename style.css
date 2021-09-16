@@ -78,5 +78,11 @@ main h2 {
     background-color: rgb(76, 76, 76);
     padding: 3px;
 }
+.ruby-style{
+    color:#555;
+    background-color: aliceblue;
+    border-style: dotted;
+    border-width: 5px;
+}
 
 
