@@ -25,9 +25,21 @@ main h2 {
 }
 
 /* Add Student Styles Below */
+
+.Marcos-Casillas-style {
+
+color: blue;
+background-color: coral;
+padding: 3px;
+}
 .luis-style {
     color: hotpink;
     background-color: black;
+    padding: 3px;
+}
+.dio-style {
+    color: limegreen;
+    background-color: blue;
     padding: 3px;
 }
 
@@ -36,6 +48,7 @@ main h2 {
     background-color: lightblue;
     padding: 3px;
 }
+
 .Elijah-Schrock-style {
     color: rgb(105, 219, 82);
     background-color: black;
@@ -43,7 +56,18 @@ main h2 {
     animation-duration: 4s;
     padding: 3px;
 }
+
 @keyframes Eli-animation {
     from {background-color:black;}
     to {background-color: red;}
+
+
+.wyatt-clay-hart{
+    color:black;
+    background-color:darkgreen;
+
+.albert-style {
+    color:green;
+    background-color:black;
+    padding: 3px;
 }
