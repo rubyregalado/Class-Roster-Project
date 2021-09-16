@@ -27,11 +27,11 @@ main h2 {
 /* Add Student Styles Below */
 
 .Marcos-Casillas-style {
-
-color: blue;
-background-color: coral;
-padding: 3px;
+    color: blue;
+    background-color: coral;
+    padding: 3px;
 }
+
 .luis-style {
     color: hotpink;
     background-color: black;
@@ -60,14 +60,23 @@ padding: 3px;
 @keyframes Eli-animation {
     from {background-color:black;}
     to {background-color: red;}
-
+}
 
 .wyatt-clay-hart{
     color:black;
     background-color:darkgreen;
+}
 
 .albert-style {
     color:green;
     background-color:black;
     padding: 3px;
 }
+
+.anthony-style {
+    color: rgb(255, 2, 2);;
+    background-color: rgb(76, 76, 76);
+    padding: 3px;
+}
+
+
